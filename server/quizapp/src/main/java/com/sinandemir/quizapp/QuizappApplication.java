@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Bean;
 
 
 @SpringBootApplication
-
 public class QuizappApplication {
 
 	public static void main(String[] args) {
